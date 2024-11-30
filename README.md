@@ -8,7 +8,9 @@
 
 ## 📸 **Project Snapshot** 📸
 
-![alt text](IMG_1.jpg)
+<img src="https://github.com/Pattaravut/6530250182.github.io/blob/main/IMG_1.jpg" width="250" height="250" />
+
+
 
 ---
 
