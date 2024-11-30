@@ -8,7 +8,7 @@
 
 ## 📸 **Project Snapshot** 📸
 
-![alt text](IMG_5457.jpeg)
+![alt text](IMG_1.jpeg)
 
 ---
 
