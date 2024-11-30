@@ -16,5 +16,4 @@
 
 | **Section**           | **Link**                       |
 |-----------------------|--------------------------------|
-| 🔐 **Authentication**  | [Authentication](authentication)  |
 | 🍪 **Cookie**          | [Cookie](cookie.md)            |
